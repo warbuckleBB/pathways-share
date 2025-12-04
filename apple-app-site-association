@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8AUVNPC85U.com.willyarbuckle.pathways",
+        "paths": ["/", "/*"]
+      }
+    ]
+  }
+}
